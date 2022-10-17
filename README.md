@@ -2,8 +2,16 @@
 <h2> Documentantion Archive </h2>
 
 > Aplicativo desenvolvido em Python versão 9 e KIVY - Aplicativo de controle de vendas online desenvolvido para obtenção de nota na matéria de desenvolvimento mobile.
-### Ajustes e melhorias
-Link para 
+
+### Prototipagem
+Confira a prototipagem das telas [aqui](https://www.figma.com/file/8NMdu9qtk0wcyIBy8mwCkk/CCO-VENDAS?node-id=0%3A1)
+
+### Tecnologias utilizadas
+- Python 
+- Kivy
+- KivyMD
+- FireBase
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -68,8 +76,6 @@ Instale o PyCharm, foi a IDE utilizada no desenvolvimento do projeto:
 ```
 <https://www.jetbrains.com/pt-br/pycharm/download/> 
 ```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📫 Deseja contribuir para o CCO Vendas?
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
